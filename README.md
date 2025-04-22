@@ -17,7 +17,7 @@ Creo poster originali, esperimenti di coding e condivido tutto il mio percorso.
 
 ## 🔗 Scopri tutto qui
 
-🌐 [linktr.ee/mantux_](https://linktr.ee/mantux_)
+🌐 [Mantux-links_](https://mantuxdev.github.io/Mantux-links/)
 
 ---
 
