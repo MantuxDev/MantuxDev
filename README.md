@@ -9,7 +9,7 @@ Creo poster originali, esperimenti di coding e condivido tutto il mio percorso.
 ## 🧠 Cosa faccio
 
 - 🎨 **Poster digitali** su [Displate](https://displate.com/mantux)  
-- 💻 **Progetti di programmazione** in C++, Kotlin, e HTML/CSS  
+- 💻 **Progetti di programmazione** 
 - 📹 **Tutorial e contenuti** su [YouTube](https://www.youtube.com/@Mantux-j5h)  
 - 🎮 Ispirato da videogiochi, tech e cultura visiva
 
